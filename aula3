@@ -1,0 +1,9 @@
+SEQUENCI
+listas armazenam multiplos objetos em uma unica variavel.
+ca da objeto tem um indice que indica sua posiçao dentro da lista
+o indice o refere-se ao primeiro elementi de uma listra 
+#a função len( ) informa a quantidade de objetos em uma linha
+#a funçao list ( ) alterao tipo de um obejeto para list e tambem para cria uma nova lista
+sintaxe para acessr um objeto e ; variavel [indice]
+o primeiro objeto da lista tem sempre valor de indice o
+#print [minhalista[:4] #imprime [´taiba , igrupe, 'paces, 
